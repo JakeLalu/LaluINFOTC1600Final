@@ -4,10 +4,15 @@
 
 ---
 
-## **Tutorial Overview**
+## **Tutorial Overview/Summary**
 1. **[Introduction to HTML](01-html.md)**: Learn about HTML.  
 2. **[Introduction to CSS](02-css.md)**: Learn about CSS.  
 3. **[Building a Simple Webpage](03-webpage.md)**: Combine HTML and CSS to create a functional webpage.  
+
+---
+
+## **Target Audience**
+- The Traget audience for this tutorial is anyone who has not had any experience using HTML or CSS.
 
 ---
 
